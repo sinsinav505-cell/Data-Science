@@ -18,3 +18,4 @@ for k in n:
         z.append(a)
         break
 print(z)
+b=8
