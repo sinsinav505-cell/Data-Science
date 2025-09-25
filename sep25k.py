@@ -4,7 +4,7 @@
                    [89, 12, 34],
                    [56, 78, 90]])'''
 # → Filter all even numbers
-# → Calculate their maximum and minimum
+# → Calculate their maximum and minimumm
 
 import numpy as np
 
